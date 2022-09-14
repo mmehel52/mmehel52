@@ -6,4 +6,8 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmehel52)](https://github.com/mmehel52/github-readme-stats)
  
 ### Skills and Experience  
-HTML,CSS,JS
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- SASS
