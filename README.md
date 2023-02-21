@@ -1,7 +1,6 @@
 ### Hi there 👋
- I'm Mustafa from Turkey, and I do content on Design and Development. I really enjoy learning languages like HTML,CSS,Javascript,React,SASS and Boostrap.I also enjoy digging into challenge code.
-
- I'm mostly active within the Clarusway Community.
+ I'm Mustafa from Turkey, and I do content on Design and Development. . Always eager to learn various technologies, tools, libraries and loves to develop with modern tooling . Especially interested in Front-end Development, HTML, CSS, JS, React and in Back-end Development Nodejs,Expressjs and Mongodb. Excited to learn new things and improve, lifetime student.
+ 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmehel52)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmehel52)
 
